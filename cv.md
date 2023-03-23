@@ -36,12 +36,13 @@ function Person(props) {
     </div>
   );
 }
+```
 ==========
 
 ## Work experience
 
-7 years as Web/UX/UI designer
-2 year as Wordpress dev
+* 7 years as Web/UX/UI designer
+* 2 year as Wordpress dev
 
 ==========
 
