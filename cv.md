@@ -1,14 +1,55 @@
-**Имя и фамилия**
-Асылхан Сагынтай
-**Контакты для связи**
-aslartkz@gmail.com, 87075648154
-**Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)**
-Работал веб-дизайнером 6 лет, в данный момент являюсь UX/UI дизайнером в компании в Казахстане, хочу стать Frontend разработчиком, в планах есть написать свое собственное приложение 
-**Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)**
-Html, CSS, немного JS, Изучаю React
-**Примеры кода**
-**Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.**
-Опыта работы нет
-**Образование (включая пройденные курсы и тренинги)**
-**Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)**
+# Assylkhan Sagyntay
+==========
+
+## Contacts
+* **email:** aslartkz@gmail.com
+* **phone:** 87075648154
+
+==========
+
+## About
+I worked as a web designer for 6 years, currently I am a UX / UI designer in a company in Kazakhstan, I want to become a Frontend developer, I plan to write my own application
+
+==========
+
+## Skills
+* Html, 
+* CSS
+* JS(Basic)
+* React(Basic)
+* Figma
+* Wordpress
+
+==========
+
+## Code
+```
+function Person(props) {
+  const { firstName, lastName, email, img } = props;
+  return (
+    <div className="person">
+      <img src={img} />
+      <h3>
+        {firstName} {lastName}
+      </h3>
+      <h4>{email}</h4>
+    </div>
+  );
+}
+==========
+
+## Work experience
+
+7 years as Web/UX/UI designer
+2 year as Wordpress dev
+
+==========
+
+## Education
+Bachelor, Eurasian National University,Astana, Kazakhstan
+Faculty of Information Technology.
+
+==========
+
+## English level
 pre-intermediate
